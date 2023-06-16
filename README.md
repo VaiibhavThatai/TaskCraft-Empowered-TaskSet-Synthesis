@@ -1,6 +1,5 @@
 # TaskCraft-Empowered-TaskSet-Synthesis
 
-INTRODUCTION
 Real-time taskset generation algorithms are essential for simulating and evaluating the performance of real-time systems. This repository provides a set of algorithms that generate synthetic tasksets with various characteristics such as task utilization, period distribution, and task dependencies. These tasksets can be used for benchmarking scheduling algorithms, evaluating system performance, and conducting research in real-time systems.
 
 # Algorithms
